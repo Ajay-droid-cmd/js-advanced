@@ -3,10 +3,20 @@
 <h2> Contains the following Topics with examples <h2>
 
 
-[x]Async
+[x]Async 
+  
 [x]Callback
+  
+  
 []First class function
+  
+  
 []Class and objects
+  
+  
 []Arrow 
+  
 []Promise / Async Await
+  
+  
 []Map Filter Reduce
