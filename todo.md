@@ -20,3 +20,6 @@
   
   
 []Map Filter Reduce
+
+
+[x] JavaScript Closures
